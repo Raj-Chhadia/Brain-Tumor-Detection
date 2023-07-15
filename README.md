@@ -12,7 +12,7 @@ The next step is to train the model. This is done using the Keras deep learning 
 
 ## Model Evaluation
 
-The model is evaluated on the validation set and the test set. The results show that the model achieves an accuracy of 88% on the validation set and 86% on the test set.
+The model is evaluated on the validation set and the test set. The results show that the model achieves an accuracy of 91.5% on the validation set and 91.1% on the test set.
 
 ## Conclusion
 
